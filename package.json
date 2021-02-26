@@ -40,7 +40,7 @@
   "repository": "git@github.com:auth0/idtoken-verifier.git",
   "devDependencies": {
     "@auth0/component-cdn-uploader": "^2.0.0",
-    "codecov": "^1.0.1",
+    "codecov": "^3.7.1",
     "eslint": "3.7.1",
     "eslint-config-auth0-base": "6.0.0",
     "eslint-plugin-import": "1.16.0",
